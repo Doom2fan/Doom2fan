@@ -4,7 +4,7 @@ I am Chronos Ouroboros, also known as phantombeta.
 I'm a hobbyist programmer from Brazil. I've primarily been involved in video game related projects such as Doom source ports and mods.  
 
 ## Interests
-My primary interests are video games and programming. I listen to quite a lot of music, 
+My primary interests are video games and programming. I listen to music during most of my time, as I find being in silence annoying and sometimes painful as I suffer from tinnitus.
 I am also a furry, and I love scaly creatures like dragons, kobolds and snakes 🐍. Also sharks! 🦈
 
 <details>
