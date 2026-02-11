@@ -7,13 +7,13 @@ I'm a hobbyist programmer. I've primarily been involved in video game related pr
 ### Programming
 One of the main things I like to spend my time on. I've worked on many personal projects, though I've not released many projects, nor made any would call *complete*, until recently with the Ouroboros Industries, my collection of modules for VCV Rack 2.
 
-I quite enjoy engine and graphics programming, though I have not released any such projects yet.
+I quite enjoy game engine and graphics programming, though I have not released any such projects yet.
 
 My language of choice is C#. It find it strikes a very good balance between performance, safety and flexibility nowadays.  
 .NET's just-in-time (JIT) compilation allows for some very interesting and useful optimizations that aren't possible with ahead-of-time (AoT) compilation, along with allowing use of the CPU's full feature set.  
 Unfortunately, my C# projects have largely all stalled for different reasons, so I've not had a chance to use C# in a while.
 
-I've used C++ from time to time. I don't find it very pleasant to use, specially with less modern codebases.
+I've used C++ from time to time, though I don't find it very pleasant to use, specially with less modernized codebases.  
 My primary use of it in the past was through many contributions to [GZDoom](https://github.com/ZDoom/gzdoom), a modernized, FOSS port of the 90s game Doom, and other games made in its engine.  
 I have had to use C++ more frequently as of lately, as I've been working on "Ouroboros Industries", a collection of modules for VCV Rack 2, which only provides C++ interfaces for plugins.
 
